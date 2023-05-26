@@ -1,0 +1,29 @@
+#root{
+-fx-background-color: #000000;
+}
+#screenName{
+    -fx-text-fill: #ac120c;
+    -fx-font-weight: bold;
+    -fx-font-size: 32px;
+}
+#leftSide{
+    -fx-background-color: #E0A322;
+
+}
+#inputField{
+    -fx-border-radius: 10;
+    -fx-background-radius: 10;
+}
+#loginButton{
+-fx-text-fill: WHITE;
+-fx-background-color:  #E0A322;
+-fx-border-radius: 10;
+-fx-background-radius: 10;
+}
+#signupButton{
+-fx-text-fill: WHITE;
+-fx-border-color:  #AC120C;
+-fx-background-color: none;
+-fx-border-radius: 10;
+
+}
